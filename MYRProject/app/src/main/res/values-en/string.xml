@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MakeYourRestaurant</string>
+    <string name="textViewRol">Select your \n menu!</string>
+    <string name="btnClient">Client</string>
+    <string name="btnWorker">Worker</string>
+    <string name="editTextLoginUsername">Username</string>
+    <string name="editTextLoginPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnBack">Back</string>
+    <string name="btnSend">Send</string>
+    <string name="CartItems">None</string>
+    <string name="no_orders">Sin pedidos</string>
+    <string name="food">food</string>
+    <string name="fill_all_fields">Please fill in all fields.</string>
+    <string name="invalid_credentials">Invalid username or password.</string>
+    <string name="network_error">Network error. Please try again later.</string>
+    <string name="welcome_user">Welcome, %1$s!</string>
+
+</resources>
+
+

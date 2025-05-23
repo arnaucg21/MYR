@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MakeYourRestaurant</string>
+    <string name="textViewRol">Seleciona tu \n menu!</string>
+    <string name="btnClient">Cliente</string>
+    <string name="btnWorker">Trabajador</string>
+    <string name="editTextLoginUsername">Usuario</string>
+    <string name="editTextLoginPassword">Contraseña</string>
+    <string name="btnLogin">Iniciar sesion</string>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MakeYourRestaurant</string>
+    <string name="textViewRol">Selecciona el\nteu menu!</string>
+    <string name="btnClient">Client</string>
+    <string name="btnWorker">Treballador</string>
+    <string name="editTextLoginUsername">Usuari</string>
+    <string name="editTextLoginPassword">Contrasenya</string>
+    <string name="btnLogin">Inicia Sessió</string>
+    <string name="btnBack">Tornar</string>
+    <string name="btnSend">Enviar</string>
+    <string name="CartItems">Buit</string>
+    <string name="no_orders">Sin pedidos</string>
+    <string name="food">Menjar</string>
+    <string name="fill_all_fields">Si us plau, omple tots els camps.</string>
+    <string name="invalid_credentials">Usuari o contrasenya incorrectes.</string>
+    <string name="network_error">Error de xarxa. Torna-ho a intentar més tard.</string>
+    <string name="welcome_user">Benvingut, %1$s!</string>
+</resources>

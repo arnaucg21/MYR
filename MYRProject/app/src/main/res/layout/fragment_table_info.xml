@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomSheetLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/rounded_liniarlayout"
+    android:backgroundTint="#F7E6C4"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mesa 1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#4A2E00" />
+
+    <LinearLayout
+        android:id="@+id/orderListContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnServed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Served"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#7C4A00"
+        android:textColor="#FFF3D1" />
+
+    <Button
+        android:id="@+id/btnRemove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#A94A2C"
+        android:textColor="#FFF3D1" />
+</LinearLayout>
