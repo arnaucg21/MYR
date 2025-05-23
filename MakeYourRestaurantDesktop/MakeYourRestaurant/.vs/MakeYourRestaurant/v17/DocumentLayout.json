@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20799273-261A-4277-BC30-CBCFA10AB45D}|MakeYourRestaurant\\MakeYourRestaurant - Login.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20799273-261A-4277-BC30-CBCFA10AB45D}|MakeYourRestaurant\\MakeYourRestaurant - Login.csproj|solutionrelative:makeyourrestaurant\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20799273-261A-4277-BC30-CBCFA10AB45D}|MakeYourRestaurant\\MakeYourRestaurant - Login.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20799273-261A-4277-BC30-CBCFA10AB45D}|MakeYourRestaurant\\MakeYourRestaurant - Login.csproj|solutionrelative:makeyourrestaurant\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant - main\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\view\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\view\\addmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\addmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\view\\categorydialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\categorydialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\view\\createmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\createmeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\view\\createworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\view\\createworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\model\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\model\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\controller\\controllercreatemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\controller\\controllercreatemeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant - main\\controller\\controllermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\controller\\controllermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\model\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant - main\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\model\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\makeyourrestaurant\\makeyourrestaurant - main\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant - main\\controller\\controlleremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\controller\\controlleremployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\makeyourrestaurant - main\\model\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9386A1-4376-4A65-9EAF-985C6EAABA73}|MakeYourRestaurant - Main\\MakeYourRestaurant - Main.csproj|solutionrelative:makeyourrestaurant - main\\model\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 536,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CategoryDialog.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\CategoryDialog.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CategoryDialog.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\CategoryDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:45:56.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\MainWindow.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\MainWindow.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:39:37.356Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateWorker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CreateWorker.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\CreateWorker.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CreateWorker.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\CreateWorker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:44:11.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMeal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\AddMeal.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\AddMeal.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\AddMeal.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\AddMeal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:35:38.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:47:08.989Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant\\Controller\\Controller.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant\\Controller\\Controller.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant\\Controller\\Controller.cs",
+              "RelativeToolTip": "MakeYourRestaurant\\Controller\\Controller.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwE8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:43:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant\\View\\Form1.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:43:07.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMeal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CreateMeal.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\View\\CreateMeal.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\View\\CreateMeal.cs [Design]",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\View\\CreateMeal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:26:28.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ControllerMain.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerMain.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Controller\\ControllerMain.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerMain.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Controller\\ControllerMain.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwIkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:31:46.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MealDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\MealDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Model\\MealDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\MealDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Model\\MealDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:51:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ControllerCreateMeal.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerCreateMeal.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Controller\\ControllerCreateMeal.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerCreateMeal.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Controller\\ControllerCreateMeal.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAcwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:07:35.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QrCodeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\QrCodeDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Model\\QrCodeDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\QrCodeDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Model\\QrCodeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:57:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ControllerEmployeeManagement.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerEmployeeManagement.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Controller\\ControllerEmployeeManagement.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\ControllerEmployeeManagement.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Controller\\ControllerEmployeeManagement.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:48:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\Program.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Controller\\Program.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Controller\\Program.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Controller\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:03.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Model\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\CategoryDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Model\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:00:31.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\Repository.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurant - Main\\Model\\Repository.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\makeyourrestaurantdesktop\\MakeYourRestaurant\\MakeYourRestaurant - Main\\Model\\Repository.cs",
+              "RelativeToolTip": "MakeYourRestaurant - Main\\Model\\Repository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAIwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:32:00.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Assets\logo.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Main.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Main.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Main.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\itextsharp.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\itextsharp.xmlworker.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Rush Order - Received.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\itextsharp.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\bin\Release\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Order - Main.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush_Order___Main.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush_Order___Main.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Order - Main.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Order - Main.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Ord.8777892B.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Order - Main.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Main\obj\Release\Rush Order - Main.pdb

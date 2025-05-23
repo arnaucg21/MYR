@@ -1,0 +1,35 @@
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Assets\logo.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Assets\loginpic.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Main.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\itextsharp.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Main.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Main.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\itextsharp.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order - Received.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order - Login.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush_Order.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush_Order.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order - Login.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order - Login.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Ord.252B7855.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order.exe.manifest
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Release\Rush Order.application
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order.TrustInfo.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order.exe.manifest
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Release\Rush Order.application

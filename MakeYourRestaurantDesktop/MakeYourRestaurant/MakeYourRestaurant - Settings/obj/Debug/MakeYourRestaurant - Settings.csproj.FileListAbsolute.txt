@@ -1,0 +1,9 @@
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Debug\Rush Order - Settings.exe.config
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Debug\Rush Order - Settings.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Debug\Rush Order - Settings.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush Order - Settings.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush_Order___Settings.Properties.Resources.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush Order - Settings.csproj.GenerateResource.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush Order - Settings.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush Order - Settings.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Debug\Rush Order - Settings.pdb

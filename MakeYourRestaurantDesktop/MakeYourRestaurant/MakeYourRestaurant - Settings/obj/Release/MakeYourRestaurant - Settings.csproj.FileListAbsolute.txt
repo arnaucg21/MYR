@@ -1,0 +1,9 @@
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Release\Rush Order - Settings.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Release\Rush Order - Settings.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\bin\Release\Rush Order - Settings.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush Order - Settings.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush_Order___Settings.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush Order - Settings.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush Order - Settings.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush Order - Settings.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Settings\obj\Release\Rush Order - Settings.pdb

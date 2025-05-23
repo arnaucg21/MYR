@@ -1,0 +1,17 @@
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\Rush Order - Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\bin\Release\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Order - Order.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush_Order___Order.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush_Order___Order.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Order - Order.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Order - Order.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Ord.1C4BA7EC.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Order\obj\Release\Rush Order - Order.pdb

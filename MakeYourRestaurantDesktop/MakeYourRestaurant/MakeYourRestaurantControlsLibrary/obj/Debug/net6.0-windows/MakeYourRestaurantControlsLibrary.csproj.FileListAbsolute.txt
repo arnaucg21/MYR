@@ -1,0 +1,14 @@
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\bin\Debug\net6.0-windows\RushOrderControlsLibrary.deps.json
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\bin\Debug\net6.0-windows\RushOrderControlsLibrary.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\bin\Debug\net6.0-windows\RushOrderControlsLibrary.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.CustomBorder.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.RoundTextBox.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.csproj.GenerateResource.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.AssemblyInfoInputs.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.AssemblyInfo.cs
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\refint\RushOrderControlsLibrary.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\RushOrderControlsLibrary.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\RushOrderControlsLibrary\obj\Debug\net6.0-windows\ref\RushOrderControlsLibrary.dll

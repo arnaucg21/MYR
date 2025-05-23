@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\mealdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\mealscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|c:\\users\\cv\\desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\qrcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\qrcodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\qrcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\orderlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\orderlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\makeyourrestaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\makeyourrestaurantcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\restaurantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\pricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\pricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\orderlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\controllers\\restauranttablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\controllers\\restauranttablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\restauranttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\makeyourrestaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5D9D32E-9162-49D6-89E9-8598C3C464AB}|MakeYourRestaurantApi\\MakeYourRestaurantAPI.csproj|solutionrelative:makeyourrestaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QrcodesController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\QrcodesController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\QrcodesController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\QrcodesController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\QrcodesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T15:50:00.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Restaurant.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwCAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T17:36:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Ticket.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Ticket.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:10:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAANsAAAAAAAAAAAAiwOgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:00:34.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\OrderRequest.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\OrderRequest.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\OrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:36:49.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MealDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\MealDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\MealDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\MealDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\MealDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:47:43.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MealsController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\MealsController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\MealsController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\MealsController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\MealsController.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAwAUBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:37:25.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\EmployeeDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\EmployeeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:08:41.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderListController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\OrderListController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\OrderListController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\OrderListController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\OrderListController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwE8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:51:18.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAiwI0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:45:54.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Category.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:23:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswDsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:36:56.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\CategoryDTO.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T14:51:18.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QrCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\QrCodeDto.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\QrCodeDto.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\QrCodeDto.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\QrCodeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:48:42.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Employee.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:37:00.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Meal.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Meal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:18:00.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RestaurantsController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\RestaurantsController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\RestaurantsController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\RestaurantsController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\RestaurantsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:46:11.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PricesController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\PricesController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\PricesController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\PricesController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\PricesController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:46:07.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MakeYourRestaurantContext.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\MakeYourRestaurantContext.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\MakeYourRestaurantContext.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\MakeYourRestaurantContext.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\MakeYourRestaurantContext.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAcwD0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:34:02.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RestaurantTablesController.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\RestaurantTablesController.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Controllers\\RestaurantTablesController.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Controllers\\RestaurantTablesController.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Controllers\\RestaurantTablesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:40:08.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderList.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\OrderList.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\OrderList.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\OrderList.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\OrderList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:51:13.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RestaurantTable.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\RestaurantTable.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\RestaurantTable.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\RestaurantTable.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\RestaurantTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:37:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T15:24:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Program.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Program.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Program.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:23:27.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Qrcode.cs",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Qrcode.cs",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\Models\\Qrcode.cs",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\Models\\Qrcode.cs",
+              "RelativeToolTip": "MakeYourRestaurantApi\\Models\\Qrcode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:35:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\appsettings.json",
+              "RelativeDocumentMoniker": "MakeYourRestaurantApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\appsettings.json",
+              "RelativeToolTip": "MakeYourRestaurantApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T15:42:55.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

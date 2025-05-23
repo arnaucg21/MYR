@@ -1,0 +1,85 @@
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.exe.config
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush_Order.Properties.Resources.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.GenerateResource.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.xml
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush_Order.View.Form1.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.CopyComplete
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.exe.config
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Assets\loginpic.png
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Assets\logo.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Assets\logo.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Assets\loginpic.png
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Main.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush_Order.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush_Order.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order - Login.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Ord.252B7855.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\itextsharp.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\itextsharp.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Received.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order - Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.exe.manifest
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\bin\Debug\Rush Order.application
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.TrustInfo.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.exe.manifest
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order\obj\Debug\Rush Order.application
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant - Login.csproj.AssemblyReference.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.View.Form1.resources
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.Properties.Resources.resources
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant - Login.csproj.GenerateResource.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant - Login.csproj.CoreCompileInputs.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.pdb
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\Assets\logo.png
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\Assets\loginpic.png
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant.exe.config
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant.exe.manifest
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant.application
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant.pdb
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\EntityFramework.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant - Main.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant - Main.pdb
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\MakeYourRestaurant - Main.exe.config
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\EntityFramework.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.TrustInfo.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.exe.manifest
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYourRestaurant.application
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\obj\Debug\MakeYour.98D89302.Up2Date
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant\bin\Debug\QRCoder.dll

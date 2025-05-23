@@ -1,0 +1,22 @@
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Received.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\itextsharp.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Rush Order - Order.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\itextsharp.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Release\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Order - Received.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush_Order___Received.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush_Order___Received.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Order - Received.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Order - Received.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Ord.60DD16CF.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Release\Rush Order - Received.pdb

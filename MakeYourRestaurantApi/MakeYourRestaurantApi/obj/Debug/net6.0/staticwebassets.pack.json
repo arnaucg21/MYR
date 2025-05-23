@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\breakfast.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\breakfast.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\burger.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\coffee.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\coffee.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\dessert.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\dessert.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\drinks.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\drinks.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\grill.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\grill.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\pasta.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\pizza.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\salad.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\salad.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\seafood.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\seafood.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\soda.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\soda.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\soup.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\soup.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\tea.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\tea.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\vegan.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\vegan.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Categories\\vegetarian.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Categories\\vegetarian.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger1.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger2.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger3.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger4.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\burger5.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\burger5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_1.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_1.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_10.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_10.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_2.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_2.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_3.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_3.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_4.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_4.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_5.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_5.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_6.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_6.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_7.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_7.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_8.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_8.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pasta_photo_9.png",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pasta_photo_9.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pizza1.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pizza1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pizza2.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pizza2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pizza3.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pizza3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pizza4.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pizza4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\Meals\\pizza5.jpg",
+      "PackagePath": "staticwebassets\\api\\Images\\Meals\\pizza5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\QRCodes\\1_1.png",
+      "PackagePath": "staticwebassets\\api\\Images\\QRCodes\\1_1.png"
+    },
+    {
+      "Id": "C:\\Users\\cv\\Desktop\\makeyourrestaurant\\testmakeyourrestaurant\\MakeYourRestaurantApi\\wwwroot\\api\\Images\\QRCodes\\2_5.png",
+      "PackagePath": "staticwebassets\\api\\Images\\QRCodes\\2_5.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MakeYourRestaurantAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MakeYourRestaurantAPI.props",
+      "PackagePath": "build\\MakeYourRestaurantAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MakeYourRestaurantAPI.props",
+      "PackagePath": "buildMultiTargeting\\MakeYourRestaurantAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MakeYourRestaurantAPI.props",
+      "PackagePath": "buildTransitive\\MakeYourRestaurantAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

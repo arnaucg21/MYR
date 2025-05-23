@@ -1,0 +1,53 @@
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.exe.config
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.pdb
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.AssemblyReference.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush_Order___Received.Properties.Resources.resources
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.GenerateResource.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.CoreCompileInputs.cache
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.exe
+C:\Users\cv\Documents\GitHub\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.exe.config
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.AssemblyReference.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush_Order___Received.Properties.Resources.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.GenerateResource.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.csproj.CoreCompileInputs.cache
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Order - Received.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush_Order___Received.View.Form1.resources
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\obj\Debug\Rush Ord.60DD16CF.Up2Date
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\EntityFramework.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\EntityFramework.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\itextsharp.dll
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\itextsharp.xml
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Order.exe
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Order.pdb
+C:\Users\nlece\Documents\RushOrder\Desktop\Rush Order\Rush Order - Received\bin\Debug\Rush Order - Order.exe.config
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Received.exe.config
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Received.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Received.pdb
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\EntityFramework.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\itextsharp.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Order.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Order.pdb
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\MakeYourRestaurant - Order.exe.config
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\EntityFramework.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\itextsharp.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant - Received.csproj.AssemblyReference.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant___Received.Properties.Resources.resources
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant___Received.View.Form1.resources
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant - Received.csproj.GenerateResource.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant - Received.csproj.CoreCompileInputs.cache
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYour.EFAB6F81.Up2Date
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant - Received.exe
+C:\Users\cv\Desktop\makeyourrestaurant\makeyourrestaurantdesktop\MakeYourRestaurant\MakeYourRestaurant - Received\obj\Debug\MakeYourRestaurant - Received.pdb

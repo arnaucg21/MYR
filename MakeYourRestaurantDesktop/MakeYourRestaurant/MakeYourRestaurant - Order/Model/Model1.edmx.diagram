@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ca6bcb230cf4d9a937b8c668313b42d" Name="Diagram1">
+        <EntityTypeShape EntityType="RushOrderModel.Category" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Client" Width="1.5" PointX="3.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Coupon" Width="1.5" PointX="3" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Employee" Width="1.5" PointX="3" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Meal" Width="1.5" PointX="5.25" PointY="12.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.OrderLine" Width="1.5" PointX="8.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Order" Width="1.5" PointX="6" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Price" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.QRCode" Width="1.5" PointX="3" PointY="19.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Restaurant" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="RushOrderModel.Time" Width="1.5" PointX="3" PointY="22.25" IsExpanded="true" />
+        <AssociationConnector Association="RushOrderModel.FK__Category__Restau__47DBAE45" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Meal__Time__4AB81AF0" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Orders__ClientID__440B1D61" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Coupons__Restaur__5535A963" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Employees__Resta__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Meal__PriceId__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Meal__Restaurant__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Meal__TimeId__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__OrderLine__MealI__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__OrderLine__Order__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Orders__Restaura__44FF419A" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Price__Value__3F466844" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__QRCodes__Restaur__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="RushOrderModel.FK__Time__Value__3C69FB99" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

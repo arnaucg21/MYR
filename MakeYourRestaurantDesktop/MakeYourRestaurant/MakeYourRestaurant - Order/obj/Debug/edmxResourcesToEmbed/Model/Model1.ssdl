@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RushOrderModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Photo" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Clients">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameComplete" Type="varchar" MaxLength="25" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityType Name="Coupons">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="DiscountValue" Type="float" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="Username" Type="varchar" MaxLength="25" />
+    <Property Name="Password" Type="varchar" MaxLength="25" />
+    <Property Name="IsAdmin" Type="bit" />
+  </EntityType>
+  <EntityType Name="Meal">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TimeId" Type="int" />
+    <Property Name="PriceId" Type="int" />
+    <Property Name="CategoryID" Type="int" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Details" Type="varchar" MaxLength="150" />
+    <Property Name="BestFood" Type="bit" />
+    <Property Name="Photo" Type="varchar" MaxLength="200" />
+    <Property Name="Price" Type="float" />
+    <Property Name="Time" Type="float" />
+  </EntityType>
+  <EntityType Name="OrderLine">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="OrderID" Type="int" />
+    <Property Name="MealId" Type="int" />
+    <Property Name="Quantity" Type="int" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ClientID" Type="int" />
+    <Property Name="TableNumber" Type="int" />
+    <Property Name="Date" Type="datetime" />
+    <Property Name="TotalPrice" Type="float" />
+    <Property Name="Billed" Type="bit" />
+    <Property Name="RestaurantId" Type="int" />
+  </EntityType>
+  <EntityType Name="Price">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="Value" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="QRCodes">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="TableNumber" Type="int" />
+    <Property Name="Photo" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Restaurant">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" />
+    <Property Name="Address" Type="varchar" MaxLength="100" />
+    <Property Name="Phone" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Time">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RestaurantId" Type="int" />
+    <Property Name="Value" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Association Name="FK__Category__Restau__47DBAE45">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Category" Type="Self.Category" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Category">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Coupons__Restaur__5535A963">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Coupons" Type="Self.Coupons" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Coupons">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Employees__Resta__398D8EEE">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Employees" Type="Self.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Employees">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Meal__PriceId__4BAC3F29">
+    <End Role="Price" Type="Self.Price" Multiplicity="0..1" />
+    <End Role="Meal" Type="Self.Meal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Price">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Meal">
+        <PropertyRef Name="PriceId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Meal__Restaurant__4D94879B">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Meal" Type="Self.Meal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Meal">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Meal__Time__4AB81AF0">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Meal" Type="Self.Meal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Meal">
+        <PropertyRef Name="CategoryID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Meal__TimeId__4CA06362">
+    <End Role="Time" Type="Self.Time" Multiplicity="0..1" />
+    <End Role="Meal" Type="Self.Meal" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Time">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Meal">
+        <PropertyRef Name="TimeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderLine__MealI__52593CB8">
+    <End Role="Meal" Type="Self.Meal" Multiplicity="0..1" />
+    <End Role="OrderLine" Type="Self.OrderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Meal">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="OrderLine">
+        <PropertyRef Name="MealId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__OrderLine__Order__5165187F">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="0..1" />
+    <End Role="OrderLine" Type="Self.OrderLine" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="OrderLine">
+        <PropertyRef Name="OrderID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Orders__ClientID__440B1D61">
+    <End Role="Clients" Type="Self.Clients" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Clients">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="ClientID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Orders__Restaura__44FF419A">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Price__Value__3F466844">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Price" Type="Self.Price" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Price">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__QRCodes__Restaur__5812160E">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="QRCodes" Type="Self.QRCodes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="QRCodes">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Time__Value__3C69FB99">
+    <End Role="Restaurant" Type="Self.Restaurant" Multiplicity="0..1" />
+    <End Role="Time" Type="Self.Time" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Restaurant">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Time">
+        <PropertyRef Name="RestaurantId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RushOrderModelStoreContainer">
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Clients" EntityType="Self.Clients" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Coupons" EntityType="Self.Coupons" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Meal" EntityType="Self.Meal" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderLine" EntityType="Self.OrderLine" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Price" EntityType="Self.Price" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QRCodes" EntityType="Self.QRCodes" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Restaurant" EntityType="Self.Restaurant" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Time" EntityType="Self.Time" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Category__Restau__47DBAE45" Association="Self.FK__Category__Restau__47DBAE45">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Category" EntitySet="Category" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Coupons__Restaur__5535A963" Association="Self.FK__Coupons__Restaur__5535A963">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Coupons" EntitySet="Coupons" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Employees__Resta__398D8EEE" Association="Self.FK__Employees__Resta__398D8EEE">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Employees" EntitySet="Employees" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Meal__PriceId__4BAC3F29" Association="Self.FK__Meal__PriceId__4BAC3F29">
+      <End Role="Price" EntitySet="Price" />
+      <End Role="Meal" EntitySet="Meal" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Meal__Restaurant__4D94879B" Association="Self.FK__Meal__Restaurant__4D94879B">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Meal" EntitySet="Meal" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Meal__Time__4AB81AF0" Association="Self.FK__Meal__Time__4AB81AF0">
+      <End Role="Category" EntitySet="Category" />
+      <End Role="Meal" EntitySet="Meal" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Meal__TimeId__4CA06362" Association="Self.FK__Meal__TimeId__4CA06362">
+      <End Role="Time" EntitySet="Time" />
+      <End Role="Meal" EntitySet="Meal" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderLine__MealI__52593CB8" Association="Self.FK__OrderLine__MealI__52593CB8">
+      <End Role="Meal" EntitySet="Meal" />
+      <End Role="OrderLine" EntitySet="OrderLine" />
+    </AssociationSet>
+    <AssociationSet Name="FK__OrderLine__Order__5165187F" Association="Self.FK__OrderLine__Order__5165187F">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderLine" EntitySet="OrderLine" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Orders__ClientID__440B1D61" Association="Self.FK__Orders__ClientID__440B1D61">
+      <End Role="Clients" EntitySet="Clients" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Orders__Restaura__44FF419A" Association="Self.FK__Orders__Restaura__44FF419A">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Price__Value__3F466844" Association="Self.FK__Price__Value__3F466844">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Price" EntitySet="Price" />
+    </AssociationSet>
+    <AssociationSet Name="FK__QRCodes__Restaur__5812160E" Association="Self.FK__QRCodes__Restaur__5812160E">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="QRCodes" EntitySet="QRCodes" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Time__Value__3C69FB99" Association="Self.FK__Time__Value__3C69FB99">
+      <End Role="Restaurant" EntitySet="Restaurant" />
+      <End Role="Time" EntitySet="Time" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
